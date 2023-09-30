@@ -1,0 +1,2013 @@
+.food-delivery {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.food-delivery .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1920px;
+  height: 4626px;
+  position: relative;
+}
+
+.food-delivery .overlap {
+  position: absolute;
+  width: 1920px;
+  height: 940px;
+  top: 0;
+  left: 13px;
+}
+
+.food-delivery .group {
+  position: absolute;
+  width: 1920px;
+  height: 940px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.food-delivery .overlap-group {
+  width: 1907px;
+  height: 940px;
+  background-image: url(./img/mask-group.png);
+  background-size: 100% 100%;
+}
+
+.food-delivery .frame {
+  position: relative;
+  width: 856px;
+  height: 764px;
+  top: 97px;
+  left: 865px;
+}
+
+.food-delivery .overlap-group-2 {
+  position: relative;
+  width: 818px;
+  height: 678px;
+  top: 86px;
+}
+
+.food-delivery .ellipse {
+  position: absolute;
+  width: 22px;
+  height: 22px;
+  top: 186px;
+  left: 159px;
+  background-color: #f94a3d;
+  border-radius: 11px;
+}
+
+.food-delivery .img {
+  position: absolute;
+  width: 818px;
+  height: 678px;
+  top: 0;
+  left: 0;
+}
+
+.food-delivery .group-2 {
+  position: absolute;
+  width: 602px;
+  height: 561px;
+  top: 97px;
+  left: 105px;
+}
+
+.food-delivery .group-3 {
+  position: absolute;
+  width: 1439px;
+  height: 689px;
+  top: 31px;
+  left: 240px;
+}
+
+.food-delivery .group-4 {
+  position: absolute;
+  width: 526px;
+  height: 472px;
+  top: 217px;
+  left: 1px;
+}
+
+.food-delivery .overlap-group-wrapper {
+  position: absolute;
+  width: 176px;
+  height: 60px;
+  top: 412px;
+  left: 0;
+}
+
+.food-delivery .div-wrapper {
+  position: relative;
+  width: 174px;
+  height: 60px;
+  background-color: #f94a3d;
+  border-radius: 16px;
+}
+
+.food-delivery .text-wrapper {
+  position: absolute;
+  top: 17px;
+  left: 31px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: var(--food-deliverywhite-grey);
+  font-size: 18px;
+  letter-spacing: -0.18px;
+  line-height: normal;
+}
+
+.food-delivery .p {
+  position: absolute;
+  width: 520px;
+  top: 283px;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: var(--food-deliveryp);
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 32px;
+}
+
+.food-delivery .group-5 {
+  position: absolute;
+  width: 526px;
+  height: 266px;
+  top: 0;
+  left: 0;
+}
+
+.food-delivery .get-your-cuisine {
+  position: absolute;
+  width: 524px;
+  top: 56px;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: transparent;
+  font-size: 60px;
+  letter-spacing: 0;
+  line-height: 70px;
+}
+
+.food-delivery .span {
+  color: #212244;
+}
+
+.food-delivery .text-wrapper-2 {
+  color: #f94a3d;
+}
+
+.food-delivery .group-6 {
+  position: absolute;
+  width: 231px;
+  height: 46px;
+  top: 0;
+  left: 1px;
+}
+
+.food-delivery .overlap-group-3 {
+  position: relative;
+  width: 229px;
+  height: 46px;
+  background-color: #fdecec;
+  border-radius: 23px;
+}
+
+.food-delivery .group-wrapper {
+  position: absolute;
+  width: 46px;
+  height: 46px;
+  top: 0;
+  left: 183px;
+  background-color: #ffffff;
+  border-radius: 23px;
+  border: 1px solid;
+  border-color: #fdecec;
+}
+
+.food-delivery .group-7 {
+  position: absolute;
+  width: 40px;
+  height: 41px;
+  top: 1px;
+  left: 2px;
+}
+
+.food-delivery .text-wrapper-3 {
+  position: absolute;
+  height: 16px;
+  top: 15px;
+  left: 21px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: var(--food-deliveryorange-color);
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.food-delivery .group-8 {
+  position: absolute;
+  width: 1439px;
+  height: 40px;
+  top: 0;
+  left: 0;
+}
+
+.food-delivery .group-9 {
+  position: absolute;
+  width: 180px;
+  height: 34px;
+  top: 5px;
+  left: 0;
+}
+
+.food-delivery .navbar {
+  position: absolute;
+  width: 453px;
+  height: 24px;
+  top: 8px;
+  left: 387px;
+}
+
+.food-delivery .text-wrapper-4 {
+  left: 0;
+  position: absolute;
+  top: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: var(--food-delivery-pg);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.food-delivery .text-wrapper-5 {
+  left: 75px;
+  position: absolute;
+  top: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: var(--food-delivery-pg);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.food-delivery .text-wrapper-6 {
+  left: 150px;
+  position: absolute;
+  top: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: var(--food-delivery-pg);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.food-delivery .text-wrapper-7 {
+  left: 218px;
+  position: absolute;
+  top: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: var(--food-delivery-pg);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.food-delivery .text-wrapper-8 {
+  left: 285px;
+  position: absolute;
+  top: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: var(--food-delivery-pg);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.food-delivery .text-wrapper-9 {
+  position: absolute;
+  top: 0;
+  left: 375px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: var(--food-delivery-pg);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.food-delivery .group-10 {
+  position: absolute;
+  width: 404px;
+  height: 40px;
+  top: 0;
+  left: 1035px;
+}
+
+.food-delivery .group-11 {
+  position: absolute;
+  width: 111px;
+  height: 40px;
+  top: 0;
+  left: 295px;
+}
+
+.food-delivery .overlap-group-4 {
+  position: relative;
+  width: 109px;
+  height: 40px;
+  background-color: var(--food-deliveryorange-color);
+  border-radius: 10px;
+}
+
+.food-delivery .text-wrapper-10 {
+  position: absolute;
+  width: 52px;
+  top: 8px;
+  left: 28px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: var(--food-deliverywhite-color);
+  font-size: 16px;
+  letter-spacing: -0.16px;
+  line-height: normal;
+}
+
+.food-delivery .group-12 {
+  position: absolute;
+  width: 222px;
+  height: 40px;
+  top: 0;
+  left: 0;
+}
+
+.food-delivery .group-13 {
+  width: 224px;
+  height: 40px;
+}
+
+.food-delivery .overlap-group-5 {
+  position: relative;
+  width: 282px;
+  height: 100px;
+  top: -24px;
+  left: -30px;
+  background-image: url(./img/fill.svg);
+  background-size: 100% 100%;
+}
+
+.food-delivery .text-wrapper-11 {
+  position: absolute;
+  top: 34px;
+  left: 48px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: var(--foodtext-color-2);
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.food-delivery .icon {
+  position: absolute;
+  width: 15px;
+  height: 16px;
+  top: 36px;
+  left: 220px;
+}
+
+.food-delivery .line {
+  position: absolute;
+  width: 1px;
+  height: 25px;
+  top: 31px;
+  left: 203px;
+  object-fit: cover;
+}
+
+.food-delivery .overlap-wrapper {
+  position: absolute;
+  width: 24px;
+  height: 25px;
+  top: 7px;
+  left: 247px;
+}
+
+.food-delivery .overlap-2 {
+  position: relative;
+  width: 26px;
+  height: 26px;
+}
+
+.food-delivery .icon-2 {
+  position: absolute;
+  width: 17px;
+  height: 19px;
+  top: 6px;
+  left: 0;
+}
+
+.food-delivery .group-14 {
+  position: absolute;
+  width: 17px;
+  height: 15px;
+  top: 0;
+  left: 9px;
+}
+
+.food-delivery .overlap-group-6 {
+  position: relative;
+  width: 15px;
+  height: 15px;
+  background-color: var(--food-deliveryorange-color);
+  border-radius: 7.61px;
+  box-shadow: 0px 4px 9px #ec682726;
+}
+
+.food-delivery .text-wrapper-12 {
+  position: absolute;
+  width: 7px;
+  top: 0;
+  left: 3px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 10px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.food-delivery .group-15 {
+  position: absolute;
+  width: 1440px;
+  height: 774px;
+  top: 1458px;
+  left: 240px;
+}
+
+.food-delivery .group-16 {
+  position: absolute;
+  width: 1440px;
+  height: 680px;
+  top: 0;
+  left: 0;
+}
+
+.food-delivery .group-17 {
+  position: absolute;
+  width: 1439px;
+  height: 457px;
+  top: 223px;
+  left: 0;
+}
+
+.food-delivery .group-18 {
+  position: absolute;
+  width: 338px;
+  height: 405px;
+  top: 52px;
+  left: 0;
+}
+
+.food-delivery .overlap-3 {
+  position: relative;
+  height: 405px;
+}
+
+.food-delivery .group-19 {
+  position: absolute;
+  width: 338px;
+  height: 366px;
+  top: 39px;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 24px;
+}
+
+.food-delivery .group-20 {
+  position: relative;
+  width: 213px;
+  height: 151px;
+  top: 184px;
+  left: 64px;
+}
+
+.food-delivery .text-wrapper-13 {
+  position: absolute;
+  height: 30px;
+  top: 27px;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: var(--food-delivery-pg);
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.food-delivery .price {
+  width: 119px;
+  left: 46px;
+  position: absolute;
+  height: 18px;
+  top: 68px;
+}
+
+.food-delivery .group-21 {
+  position: absolute;
+  width: 95px;
+  height: 17px;
+  top: 0;
+  left: 57px;
+}
+
+.food-delivery .star {
+  left: 0;
+  position: absolute;
+  width: 16px;
+  height: 15px;
+  top: 0;
+}
+
+.food-delivery .star-2 {
+  left: 20px;
+  position: absolute;
+  width: 16px;
+  height: 15px;
+  top: 0;
+}
+
+.food-delivery .star-3 {
+  left: 40px;
+  position: absolute;
+  width: 16px;
+  height: 15px;
+  top: 0;
+}
+
+.food-delivery .star-4 {
+  left: 59px;
+  position: absolute;
+  width: 16px;
+  height: 15px;
+  top: 0;
+}
+
+.food-delivery .star-5 {
+  left: 79px;
+  position: absolute;
+  width: 16px;
+  height: 15px;
+  top: 0;
+}
+
+.food-delivery .group-22 {
+  position: absolute;
+  width: 123px;
+  height: 42px;
+  top: 109px;
+  left: 44px;
+}
+
+.food-delivery .overlap-group-7 {
+  position: relative;
+  width: 121px;
+  height: 42px;
+  border-radius: 10px;
+  border: 1.5px solid;
+  border-color: var(--food-deliveryorange-color);
+}
+
+.food-delivery .text-wrapper-14 {
+  position: absolute;
+  top: 10px;
+  left: 12px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: var(--food-deliveryorange-color);
+  font-size: 14px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.food-delivery .frame-2 {
+  width: 190px;
+  height: 200px;
+  left: 74px;
+  position: absolute;
+  top: 0;
+}
+
+.food-delivery .group-23 {
+  position: absolute;
+  width: 338px;
+  height: 394px;
+  top: 63px;
+  left: 367px;
+}
+
+.food-delivery .overlap-4 {
+  position: relative;
+  height: 394px;
+}
+
+.food-delivery .group-24 {
+  position: absolute;
+  width: 338px;
+  height: 366px;
+  top: 28px;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 24px;
+}
+
+.food-delivery .group-25 {
+  position: absolute;
+  width: 204px;
+  height: 151px;
+  top: 212px;
+  left: 68px;
+}
+
+.food-delivery .price-2 {
+  width: 120px;
+  left: 42px;
+  position: absolute;
+  height: 18px;
+  top: 68px;
+}
+
+.food-delivery .group-26 {
+  position: absolute;
+  width: 95px;
+  height: 17px;
+  top: 0;
+  left: 53px;
+}
+
+.food-delivery .group-27 {
+  left: 40px;
+  position: absolute;
+  width: 123px;
+  height: 42px;
+  top: 109px;
+}
+
+.food-delivery .frame-3 {
+  width: 185px;
+  height: 185px;
+  left: 77px;
+  position: absolute;
+  top: 0;
+}
+
+.food-delivery .group-28 {
+  position: absolute;
+  width: 338px;
+  height: 409px;
+  top: 48px;
+  left: 1101px;
+}
+
+.food-delivery .group-29 {
+  height: 409px;
+}
+
+.food-delivery .overlap-5 {
+  position: relative;
+  width: 338px;
+  height: 409px;
+}
+
+.food-delivery .group-30 {
+  position: absolute;
+  width: 338px;
+  top: 43px;
+  left: 0;
+  height: 366px;
+  background-color: #ffffff;
+  border-radius: 24px;
+}
+
+.food-delivery .group-31 {
+  position: relative;
+  width: 187px;
+  height: 151px;
+  top: 184px;
+  left: 77px;
+}
+
+.food-delivery .price-3 {
+  width: 118px;
+  left: 34px;
+  position: absolute;
+  height: 18px;
+  top: 68px;
+}
+
+.food-delivery .group-32 {
+  position: absolute;
+  width: 95px;
+  height: 17px;
+  top: 0;
+  left: 44px;
+}
+
+.food-delivery .group-33 {
+  left: 31px;
+  position: absolute;
+  width: 123px;
+  height: 42px;
+  top: 109px;
+}
+
+.food-delivery .frame-4 {
+  width: 160px;
+  height: 208px;
+  left: 74px;
+  position: absolute;
+  top: 0;
+}
+
+.food-delivery .group-34 {
+  position: absolute;
+  width: 338px;
+  height: 457px;
+  top: 0;
+  left: 734px;
+}
+
+.food-delivery .group-35 {
+  height: 457px;
+}
+
+.food-delivery .overlap-6 {
+  position: relative;
+  width: 338px;
+  height: 457px;
+}
+
+.food-delivery .group-36 {
+  position: absolute;
+  width: 338px;
+  height: 366px;
+  top: 91px;
+  left: 0;
+  box-shadow: 20px 30px 70px #694b4b12;
+}
+
+.food-delivery .group-37 {
+  height: 366px;
+  background-color: #ffffff;
+  border-radius: 24px;
+}
+
+.food-delivery .group-38 {
+  position: relative;
+  width: 170px;
+  height: 151px;
+  top: 184px;
+  left: 85px;
+}
+
+.food-delivery .price-4 {
+  width: 118px;
+  left: 26px;
+  position: absolute;
+  height: 18px;
+  top: 68px;
+}
+
+.food-delivery .group-39 {
+  position: absolute;
+  width: 95px;
+  height: 17px;
+  top: 0;
+  left: 36px;
+}
+
+.food-delivery .group-40 {
+  left: 23px;
+  position: absolute;
+  width: 123px;
+  height: 42px;
+  top: 109px;
+}
+
+.food-delivery .overlap-group-8 {
+  position: relative;
+  width: 121px;
+  height: 42px;
+  background-color: #f94a3d;
+  border-radius: 10px;
+}
+
+.food-delivery .text-wrapper-15 {
+  position: absolute;
+  top: 11px;
+  left: 14px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: var(--food-deliverywhite-color);
+  font-size: 14px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.food-delivery .frame-5 {
+  width: 249px;
+  height: 253px;
+  left: 44px;
+  position: absolute;
+  top: 0;
+}
+
+.food-delivery .group-41 {
+  position: absolute;
+  width: 1442px;
+  height: 155px;
+  top: 0;
+  left: 0;
+}
+
+.food-delivery .text-wrapper-16 {
+  position: absolute;
+  top: 0;
+  left: 435px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: var(--food-delivery-pg);
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.food-delivery .group-42 {
+  position: absolute;
+  width: 1440px;
+  height: 37px;
+  top: 118px;
+  left: 0;
+}
+
+.food-delivery .group-43 {
+  position: absolute;
+  width: 706px;
+  height: 27px;
+  top: 0;
+  left: 373px;
+}
+
+.food-delivery .text-wrapper-17 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: var(--food-deliveryorange-color);
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.food-delivery .text-wrapper-18 {
+  position: absolute;
+  top: 0;
+  left: 126px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: var(--food-delivery-pg);
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.food-delivery .text-wrapper-19 {
+  position: absolute;
+  top: 0;
+  left: 259px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: var(--food-delivery-pg);
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.food-delivery .text-wrapper-20 {
+  position: absolute;
+  top: 0;
+  left: 376px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: var(--food-delivery-pg);
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.food-delivery .text-wrapper-21 {
+  position: absolute;
+  top: 0;
+  left: 475px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: var(--food-delivery-pg);
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.food-delivery .text-wrapper-22 {
+  position: absolute;
+  top: 0;
+  left: 559px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: var(--food-delivery-pg);
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.food-delivery .line-wrapper {
+  position: absolute;
+  width: 1440px;
+  height: 1px;
+  top: 36px;
+  left: 0;
+  background-image: url(./img/line-8.svg);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.food-delivery .line-2 {
+  position: absolute;
+  width: 94px;
+  height: 2px;
+  top: -1px;
+  left: 372px;
+}
+
+.food-delivery .group-44 {
+  position: absolute;
+  width: 52px;
+  height: 6px;
+  top: 768px;
+  left: 694px;
+}
+
+.food-delivery .group-45 {
+  position: relative;
+  height: 6px;
+}
+
+.food-delivery .line-3 {
+  position: absolute;
+  width: 26px;
+  height: 6px;
+  top: 0;
+  left: 0;
+}
+
+.food-delivery .ellipse-2 {
+  position: absolute;
+  width: 6px;
+  height: 6px;
+  top: 0;
+  left: 33px;
+  background-color: #d9d9d9;
+  border-radius: 3px;
+}
+
+.food-delivery .ellipse-3 {
+  position: absolute;
+  width: 6px;
+  height: 6px;
+  top: 0;
+  left: 46px;
+  background-color: #d9d9d9;
+  border-radius: 3px;
+}
+
+.food-delivery .group-46 {
+  position: absolute;
+  width: 1920px;
+  height: 900px;
+  top: 2367px;
+  left: 0;
+}
+
+.food-delivery .group-47 {
+  height: 900px;
+  background-image: url(./img/rectangle-3967.svg);
+  background-size: 100% 100%;
+}
+
+.food-delivery .group-48 {
+  position: relative;
+  width: 1442px;
+  height: 494px;
+  top: 200px;
+  left: 240px;
+}
+
+.food-delivery .overlap-7 {
+  position: relative;
+  width: 1440px;
+  height: 494px;
+}
+
+.food-delivery .what-our-customers {
+  position: absolute;
+  width: 559px;
+  top: 0;
+  left: 727px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: transparent;
+  font-size: 48px;
+  letter-spacing: 0.96px;
+  line-height: 60px;
+}
+
+.food-delivery .group-49 {
+  position: absolute;
+  width: 1440px;
+  height: 493px;
+  top: 1px;
+  left: 0;
+}
+
+.food-delivery .group-50 {
+  position: absolute;
+  width: 611px;
+  height: 493px;
+  top: 0;
+  left: 0;
+}
+
+.food-delivery .group-51 {
+  position: absolute;
+  width: 495px;
+  height: 486px;
+  top: 7px;
+  left: 0;
+}
+
+.food-delivery .overlap-group-9 {
+  position: absolute;
+  width: 655px;
+  height: 308px;
+  top: -65px;
+  left: -95px;
+}
+
+.food-delivery .group-52 {
+  position: absolute;
+  width: 655px;
+  height: 271px;
+  top: 0;
+  left: 0;
+}
+
+.food-delivery .group-53 {
+  position: absolute;
+  width: 495px;
+  height: 111px;
+  top: 197px;
+  left: 95px;
+}
+
+.food-delivery .ellipse-4 {
+  position: absolute;
+  width: 84px;
+  height: 84px;
+  top: 13px;
+  left: 19px;
+  object-fit: cover;
+}
+
+.food-delivery .group-54 {
+  position: absolute;
+  width: 219px;
+  height: 66px;
+  top: 23px;
+  left: 142px;
+}
+
+.food-delivery .text-wrapper-23 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: var(--food-delivery-pg);
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.food-delivery .text-wrapper-24 {
+  position: absolute;
+  top: 42px;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: var(--foodtext-color-2);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.food-delivery .group-55 {
+  position: absolute;
+  width: 495px;
+  height: 111px;
+  top: 254px;
+  left: 0;
+}
+
+.food-delivery .group-56 {
+  width: 166px;
+  position: absolute;
+  height: 66px;
+  top: 23px;
+  left: 142px;
+}
+
+.food-delivery .group-57 {
+  position: absolute;
+  width: 495px;
+  height: 111px;
+  top: 375px;
+  left: 0;
+}
+
+.food-delivery .group-58 {
+  width: 205px;
+  position: absolute;
+  height: 66px;
+  top: 23px;
+  left: 142px;
+}
+
+.food-delivery .text-wrapper-25 {
+  position: absolute;
+  top: 42px;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: var(--food-deliveryp);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.food-delivery .group-59 {
+  position: absolute;
+  width: 1px;
+  height: 493px;
+  top: 0;
+  left: 611px;
+}
+
+.food-delivery .overlap-8 {
+  position: relative;
+  width: 3px;
+  height: 493px;
+}
+
+.food-delivery .line-4 {
+  position: absolute;
+  width: 3px;
+  height: 493px;
+  top: 0;
+  left: 0;
+}
+
+.food-delivery .line-5 {
+  position: absolute;
+  width: 3px;
+  height: 98px;
+  top: 13px;
+  left: 0;
+}
+
+.food-delivery .group-60 {
+  position: absolute;
+  width: 713px;
+  height: 302px;
+  top: 189px;
+  left: 727px;
+}
+
+.food-delivery .group-61 {
+  position: absolute;
+  width: 715px;
+  height: 190px;
+  top: 112px;
+  left: 0;
+}
+
+.food-delivery .text-wrapper-26 {
+  position: absolute;
+  width: 713px;
+  top: 0;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: var(--food-deliveryp);
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: 38px;
+}
+
+.food-delivery .group-62 {
+  position: absolute;
+  width: 118px;
+  height: 21px;
+  top: 40px;
+  left: 578px;
+}
+
+.food-delivery .star-6 {
+  position: absolute;
+  width: 20px;
+  height: 19px;
+  top: 0;
+  left: 1px;
+}
+
+.food-delivery .star-7 {
+  position: absolute;
+  width: 20px;
+  height: 19px;
+  top: 0;
+  left: 25px;
+}
+
+.food-delivery .star-8 {
+  position: absolute;
+  width: 20px;
+  height: 19px;
+  top: 0;
+  left: 49px;
+}
+
+.food-delivery .star-9 {
+  position: absolute;
+  width: 20px;
+  height: 19px;
+  top: 0;
+  left: 73px;
+}
+
+.food-delivery .star-10 {
+  position: absolute;
+  width: 20px;
+  height: 19px;
+  top: 0;
+  left: 97px;
+}
+
+.food-delivery .line-6 {
+  position: absolute;
+  width: 700px;
+  height: 2px;
+  top: 86px;
+  left: -1px;
+}
+
+.food-delivery .group-63 {
+  position: absolute;
+  width: 220px;
+  height: 68px;
+  top: 0;
+  left: 0;
+}
+
+.food-delivery .overlap-group-10 {
+  position: absolute;
+  width: 204px;
+  height: 68px;
+  top: 0;
+  left: 14px;
+}
+
+.food-delivery .group-64 {
+  position: absolute;
+  width: 203px;
+  height: 27px;
+  top: 41px;
+  left: 0;
+}
+
+.food-delivery .group-65 {
+  height: 27px;
+}
+
+.food-delivery .group-66 {
+  width: 203px;
+  height: 27px;
+}
+
+.food-delivery .group-67 {
+  position: relative;
+  width: 205px;
+  height: 27px;
+}
+
+.food-delivery .text-wrapper-27 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: var(--foodtext-color-2);
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.food-delivery .text-wrapper-28 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: var(--food-delivery-pg);
+  font-size: 28px;
+  letter-spacing: 0;
+  line-height: 42px;
+  white-space: nowrap;
+}
+
+.food-delivery .line-7 {
+  position: absolute;
+  width: 3px;
+  height: 56px;
+  top: 8px;
+  left: 0;
+}
+
+.food-delivery .group-68 {
+  position: absolute;
+  width: 1439px;
+  height: 383px;
+  top: 1035px;
+  left: 240px;
+}
+
+.food-delivery .group-69 {
+  position: relative;
+  height: 383px;
+}
+
+.food-delivery .group-70 {
+  position: absolute;
+  width: 341px;
+  height: 316px;
+  top: 33px;
+  left: 0;
+}
+
+.food-delivery .why-we-are-best-in {
+  position: absolute;
+  width: 337px;
+  top: 0;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: var(--food-delivery-pg);
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: 58px;
+}
+
+.food-delivery .text-wrapper-29 {
+  position: absolute;
+  width: 320px;
+  top: 192px;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: var(--food-deliveryp);
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 31px;
+}
+
+.food-delivery .group-71 {
+  position: absolute;
+  width: 340px;
+  height: 383px;
+  top: 0;
+  left: 367px;
+}
+
+.food-delivery .overlap-9 {
+  position: relative;
+  width: 342px;
+  height: 383px;
+}
+
+.food-delivery .group-72 {
+  position: absolute;
+  width: 342px;
+  height: 230px;
+  top: 153px;
+  left: 0;
+}
+
+.food-delivery .overlap-group-11 {
+  position: relative;
+  width: 340px;
+  height: 230px;
+  border-radius: 20px;
+}
+
+.food-delivery .choose-your-favorite {
+  position: absolute;
+  width: 216px;
+  top: 71px;
+  left: 44px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #212244;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: 40px;
+}
+
+.food-delivery .group-73 {
+  position: absolute;
+  width: 168px;
+  height: 201px;
+  top: 0;
+  left: 87px;
+}
+
+.food-delivery .overlap-group-12 {
+  position: relative;
+  height: 201px;
+}
+
+.food-delivery .ellipse-5 {
+  position: absolute;
+  width: 152px;
+  height: 152px;
+  top: 49px;
+  left: 6px;
+  background-color: #faede3;
+  border-radius: 76px;
+}
+
+.food-delivery .frame-6 {
+  width: 168px;
+  height: 179px;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.food-delivery .group-74 {
+  position: absolute;
+  width: 342px;
+  height: 383px;
+  top: 0;
+  left: 733px;
+}
+
+.food-delivery .overlap-10 {
+  position: relative;
+  width: 340px;
+  height: 383px;
+}
+
+.food-delivery .rectangle {
+  position: absolute;
+  width: 340px;
+  height: 230px;
+  top: 153px;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 20px;
+  border: 4px solid;
+  border-color: transparent;
+  box-shadow: 20px 40px 90px -5px #840f0f14;
+  border-image: linear-gradient(to bottom, rgba(255, 207, 3, 0), rgb(255, 207, 3)) 1;
+}
+
+.food-delivery .get-delivery-at-your {
+  position: absolute;
+  width: 216px;
+  top: 224px;
+  left: 44px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: var(--food-delivery-pg);
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: 40px;
+}
+
+.food-delivery .group-75 {
+  position: absolute;
+  width: 188px;
+  height: 201px;
+  top: 0;
+  left: 78px;
+}
+
+.food-delivery .ellipse-6 {
+  position: absolute;
+  width: 152px;
+  height: 152px;
+  top: 49px;
+  left: 2px;
+  background-color: #faede3;
+  border-radius: 76px;
+}
+
+.food-delivery .group-76 {
+  position: absolute;
+  width: 188px;
+  height: 179px;
+  top: 0;
+  left: 0;
+}
+
+.food-delivery .group-77 {
+  position: absolute;
+  width: 340px;
+  height: 369px;
+  top: 14px;
+  left: 1099px;
+}
+
+.food-delivery .overlap-11 {
+  position: relative;
+  width: 342px;
+  height: 369px;
+}
+
+.food-delivery .group-78 {
+  position: absolute;
+  width: 342px;
+  height: 230px;
+  top: 139px;
+  left: 0;
+}
+
+.food-delivery .we-have-review {
+  position: absolute;
+  width: 216px;
+  top: 71px;
+  left: 44px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: var(--food-delivery-pg);
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: 40px;
+}
+
+.food-delivery .group-79 {
+  position: absolute;
+  width: 149px;
+  height: 188px;
+  top: 0;
+  left: 90px;
+}
+
+.food-delivery .overlap-12 {
+  position: relative;
+  height: 188px;
+}
+
+.food-delivery .ellipse-7 {
+  position: absolute;
+  width: 146px;
+  height: 146px;
+  top: 42px;
+  left: 3px;
+  background-color: #faede3;
+  border-radius: 73.06px;
+}
+
+.food-delivery .frame-7 {
+  width: 143px;
+  height: 167px;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.food-delivery .group-80 {
+  position: absolute;
+  width: 1440px;
+  height: 754px;
+  top: 3452px;
+  left: 240px;
+}
+
+.food-delivery .overlap-13 {
+  position: relative;
+  height: 754px;
+}
+
+.food-delivery .call-to-action {
+  position: absolute;
+  width: 1440px;
+  height: 550px;
+  top: 0;
+  left: 0;
+  background-color: var(--food-deliveryorange-color);
+  border-radius: 40px;
+  overflow: hidden;
+}
+
+.food-delivery .group-81 {
+  position: absolute;
+  width: 604px;
+  height: 602px;
+  top: -26px;
+  left: 81px;
+  background-color: #e73b2e;
+  border-radius: 302px/301px;
+}
+
+.food-delivery .ellipse-wrapper {
+  position: relative;
+  width: 488px;
+  height: 486px;
+  top: 58px;
+  left: 58px;
+  background-color: #ee3e31;
+  border-radius: 244px/243px;
+}
+
+.food-delivery .ellipse-8 {
+  position: relative;
+  width: 383px;
+  height: 382px;
+  top: 52px;
+  left: 52px;
+  background-color: #f94a3d;
+  border-radius: 191.52px/190.81px;
+}
+
+.food-delivery .group-82 {
+  position: absolute;
+  width: 263px;
+  height: 266px;
+  top: 284px;
+  left: 1163px;
+}
+
+.food-delivery .group-83 {
+  position: absolute;
+  width: 1011px;
+  height: 694px;
+  top: 60px;
+  left: 227px;
+}
+
+.food-delivery .overlap-14 {
+  position: relative;
+  width: 1191px;
+  height: 934px;
+  top: -40px;
+  left: -178px;
+}
+
+.food-delivery .group-84 {
+  position: absolute;
+  width: 674px;
+  height: 934px;
+  top: 0;
+  left: 0;
+}
+
+.food-delivery .group-85 {
+  position: absolute;
+  width: 538px;
+  height: 300px;
+  top: 101px;
+  left: 653px;
+}
+
+.food-delivery .button {
+  position: absolute;
+  width: 363px;
+  height: 52px;
+  top: 248px;
+  left: 0;
+}
+
+.food-delivery .button-app-store {
+  position: absolute;
+  width: 159px;
+  height: 52px;
+  top: 0;
+  left: 0;
+}
+
+.food-delivery .button-play-store {
+  position: absolute;
+  width: 177px;
+  height: 52px;
+  top: 0;
+  left: 186px;
+}
+
+.food-delivery .text-wrapper-30 {
+  position: absolute;
+  width: 516px;
+  top: 158px;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 32px;
+}
+
+.food-delivery .never-feel-hungry-wrapper {
+  position: absolute;
+  width: 538px;
+  height: 141px;
+  top: 0;
+  left: 0;
+}
+
+.food-delivery .never-feel-hungry {
+  position: absolute;
+  width: 536px;
+  top: 0;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 38px;
+  letter-spacing: 0.76px;
+  line-height: 47px;
+}
+
+.food-delivery .group-86 {
+  position: absolute;
+  width: 1920px;
+  height: 410px;
+  top: 4286px;
+  left: 0;
+  background: linear-gradient(
+    180deg,
+    rgb(253, 240, 243) 4.11%,
+    rgba(255, 253, 242, 0.5) 44.56%,
+    rgb(253, 238, 243) 85.8%
+  );
+}
+
+.food-delivery .group-87 {
+  position: absolute;
+  width: 1920px;
+  height: 70px;
+  top: 340px;
+  left: 0;
+  background-color: var(--food-deliveryorange-color);
+}
+
+.food-delivery .group-88 {
+  position: relative;
+  width: 1444px;
+  height: 15px;
+  top: 28px;
+  left: 240px;
+}
+
+.food-delivery .text-wrapper-31 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: var(--food-deliverywhite-color);
+  font-size: 13px;
+  letter-spacing: -0.13px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.food-delivery .text-wrapper-32 {
+  position: absolute;
+  top: 0;
+  left: 1345px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: var(--food-deliverywhite-color);
+  font-size: 13px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.food-delivery .group-89 {
+  position: absolute;
+  width: 1441px;
+  height: 214px;
+  top: 54px;
+  left: 240px;
+}
+
+.food-delivery .group-90 {
+  position: absolute;
+  width: 291px;
+  height: 214px;
+  top: 0;
+  left: 0;
+}
+
+.food-delivery .social-media-icon {
+  position: absolute;
+  width: 124px;
+  height: 30px;
+  top: 184px;
+  left: 0;
+}
+
+.food-delivery .text-wrapper-33 {
+  position: absolute;
+  width: 289px;
+  top: 60px;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: var(--food-deliveryp);
+  font-size: 16px;
+  letter-spacing: -0.16px;
+  line-height: 28px;
+}
+
+.food-delivery .group-91 {
+  position: absolute;
+  width: 157px;
+  height: 30px;
+  top: 0;
+  left: 0;
+}
+
+.food-delivery .group-92 {
+  position: absolute;
+  width: 33px;
+  height: 30px;
+  top: 0;
+  left: 0;
+}
+
+.food-delivery .overlap-group-13 {
+  position: relative;
+  width: 31px;
+  height: 30px;
+  background-color: var(--food-deliveryorange-color);
+  border-radius: 7px;
+}
+
+.food-delivery .text-wrapper-34 {
+  position: absolute;
+  top: 1px;
+  left: 6px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 28px;
+  letter-spacing: -0.28px;
+  line-height: 28px;
+  white-space: nowrap;
+}
+
+.food-delivery .text-wrapper-35 {
+  position: absolute;
+  top: 0;
+  left: 38px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 700;
+  color: var(--food-deliveryorange-color);
+  font-size: 25px;
+  letter-spacing: -0.25px;
+  line-height: 28px;
+  white-space: nowrap;
+}
+
+.food-delivery .group-93 {
+  position: absolute;
+  width: 984px;
+  height: 195px;
+  top: 0;
+  left: 457px;
+}
+
+.food-delivery .group-94 {
+  position: absolute;
+  width: 123px;
+  height: 194px;
+  top: 1px;
+  left: 613px;
+}
+
+.food-delivery .text-wrapper-36 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: var(--food-delivery-pg);
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 18px;
+  white-space: nowrap;
+}
+
+.food-delivery .text-wrapper-37 {
+  position: absolute;
+  top: 54px;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: var(--food-deliveryp);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 35px;
+}
+
+.food-delivery .group-95 {
+  position: absolute;
+  width: 93px;
+  height: 159px;
+  top: 1px;
+  left: 895px;
+}
+
+.food-delivery .group-96 {
+  position: absolute;
+  width: 120px;
+  height: 195px;
+  top: 0;
+  left: 0;
+}
+
+.food-delivery .text-wrapper-38 {
+  position: absolute;
+  top: 55px;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: var(--food-deliveryp);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 35px;
+}
+
+.food-delivery .text-wrapper-39 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #2e2e2e;
+  font-size: 18px;
+  letter-spacing: -0.18px;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.food-delivery .group-97 {
+  position: absolute;
+  width: 160px;
+  height: 195px;
+  top: 0;
+  left: 289px;
+}
